@@ -1,4 +1,4 @@
-# HealthCare Premium Prediction
+w# HealthCare Premium Prediction
 # 🏥 Health Insurance Cost Predictor
 
 This is a **Machine Learning-based Web App** that predicts health insurance costs based on user inputs such as age, BMI, medical history, smoking status, and more. The application features a clean, responsive, and user-friendly interface built using **Streamlit**.
@@ -7,7 +7,7 @@ This is a **Machine Learning-based Web App** that predicts health insurance cost
 
 ## 🚀 Live App
 
-🔗 [Click here to try the app](#)  
+🔗 [Click here to try the app](https://healthcarepremiumpredictionmodel.streamlit.app/)  
 *(Replace `#` with your actual Streamlit app URL)*
 
 ---
