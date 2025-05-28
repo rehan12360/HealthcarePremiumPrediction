@@ -79,9 +79,9 @@ This two-split model approach helped us reduce the error significantly to **just
    ```bash
    git clone https://github.com/yourusername/health-insurance-predictor.git
    cd health-insurance-predictor
-
+2. Install dependencies:   
+  ```bash
    pip install -r requirements.txt
 
-   streamlit run app.py
 
 
